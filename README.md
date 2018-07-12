@@ -4,10 +4,12 @@
 
 2. After successfully install the magento to localhost, I create this github repositoy from a folder downloaded from magento website.
 
-3. Then I create 2 new folder to app/design/frontend. 
+3. Then I create 2 new folder to app/design/frontend to create custom theme based on luma theme 
 
-4. - add 3 new files
+4. add 3 new files which is composer.json, registration.php and thme.xml
 
-5. -configurations -new theme
+5. Then at admin magento page configurations, select new theme
 
-6. caches managements- flucsh magento cache
+6. Next flush magento cache
+
+7. To 
