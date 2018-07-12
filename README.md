@@ -8,8 +8,13 @@
 
 4. add 3 new files which is composer.json, registration.php and thme.xml
 
-5. Then at admin magento page configurations, select new theme
+5. Then at admin magento page configurations and choose new custom theme
 
-6. Next flush magento cache
+6. Then add code to default.xml file to make another space on top of the header
 
-7. To 
+7. Add cms block to the header and insert 'Front-End Testing' word.
+
+8. End result:
+
+
+![end_result](https://user-images.githubusercontent.com/38880761/42647264-10be67a0-8636-11e8-85ea-8a41f384f51f.JPG)
