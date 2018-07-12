@@ -12,7 +12,7 @@
 
 6. Then add code to default.xml file to make another space on top of the header
 
-7. Add cms block to the header and insert 'Front-End Testing' word.
+7. Add cms block header to the hompage and insert 'Front-End Testing' word.
 
 8. End result:
 
